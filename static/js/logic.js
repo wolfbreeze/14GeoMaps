@@ -50,8 +50,8 @@ function createMap(earthquakes) {
   // Selection Legend
   var baseMaps = {
     "Satellite": satellitemap,
-    "Light": lightmap,
-    "Borders": outdoorsmap
+    "Boarders": lightmap,
+    "Elevation": outdoorsmap
   };
 
   // Earthquakes LAyer
